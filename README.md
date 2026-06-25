@@ -58,94 +58,49 @@ Also features a fully styled **Streamlit Dashboard** with gradient prediction ca
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/RoBERTa-000000?style=for-the-badge&logo=huggingface&logoColor=white"> <img src="https://img.shields.io/badge/T5%2FBART-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white"> <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/SHAP-00C0FF?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/BERTScore-4A90D9?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/ROUGE-6DB33F?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 
 📂 **GitHub:** 👇  
-[![Repo](https://img.shields.io/badge/Repo-AI%20News%20Intelligence%20System-success?style=plastic&logo=github)](https://github.com/your-username/ai-news-intelligence.git)
+[![Repo](https://img.shields.io/badge/Repo-AI%20News%20Intelligence%20System-success?style=plastic&logo=github)](https://github.com/sarank-21/AI_News_Intelligence_System)
 
-### 1️⃣ Secure Check
+### 🚗 **Driver Drowsiness Detection System: Dual-CNN Fatigue Detection with MediaPipe FaceMesh**
 
-🔍 A Python-SQL digital ledger for police post data management.  
-  
-**🧰 Tech Stack:**  
+👁️ A deep learning-powered **Computer Vision + Safety Analytics** pipeline that detects driver fatigue by independently classifying eye state (open/closed) and mouth state (yawn/no_yawn) using custom CNNs and MediaPipe FaceMesh landmark extraction, served through an interactive Streamlit dashboard.  
+Also features a **MobileNetV2 vs Custom CNN benchmarking pipeline** with confusion matrices, classification reports, and a weighted fatigue scoring engine with session-state progression tracking.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+**🧰 Tech Stack**
 
-📂 **Github:** 👇
-
-[![Repo](https://img.shields.io/badge/Repo-Secure%20Check-green?style=plastic&logo=github)](https://github.com/Infant-Joshva/Mini-Project-1-Secure-Check-.git)
-
-<h1></h1>
-
-### 2️⃣ Agri Data Explorer
-
-🌾 Agricultural data analysis platform with integrated Power BI dashboards.  
-  
-**🧰 Tech Stack:**  
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-
-📂 **Github:** 👇
-
-[![Repo](https://img.shields.io/badge/Repo-Agri%20Data%20Explorer-green?style=plastic&logo=github)](https://github.com/Infant-Joshva/Mini_project_2-Agri-Data-Explorer.git)
-
-<h1></h1>
-
-### 3️⃣ Employee Attrition Analysis and Prediction
-
-👨‍💼 Machine learning model to predict employee turnover based on HR data.  
-
-**🧰 Tech Stack:**  
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-
-📂 **Github:** 👇
-
-[![Repo](https://img.shields.io/badge/Repo-Employee%20Attrition%20ML%20Model-green?style=plastic&logo=github)](https://github.com/Infant-Joshva/Project_3-Employee_Attrition_Analysis_and_Prediction.git)
-
-<h1></h1>
-
-### 4️⃣ Multiple Disease Prediction System
-
-🩺 Machine learning system to predict multiple diseases like Kidney Disease, Liver Disease, and Parkinson’s Disease based on user health data.  
-
-**🧰 Tech Stack:**  
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"> <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> 
-
-📂 **GitHub:** 👇
-
-[![Repo](https://img.shields.io/badge/Repo-Multiple%20Disease%20Prediction-green?style=plastic&logo=github)](https://github.com/Infant-Joshva/Project_4-Multiple-Disease-Prediction.git)
-
-<h1></h1>
-
-### 5️⃣ AI-Echo: Sentiment Analysis System
-
-🧠 An intelligent sentiment analysis system that classifies text into **Positive, Neutral, or Negative** using ML and NLP techniques.  
-Built with real-world datasets and optimized machine learning pipelines.
-
-**🧰 Tech Stack:**  
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Matplotlib-005C8A?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Seaborn-4A90E2?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"> <img src="https://img.shields.io/badge/WordCloud-000000?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/NLTK-154D45?style=for-the-badge&logo=semanticweb&logoColor=white"> <img src="https://img.shields.io/badge/TextBlob-FF4081?style=for-the-badge&logoColor=white">
- <img src="https://img.shields.io/badge/Regex-FF6F00?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Emoji-FFD400?style=for-the-badge&logoColor=black"> <img src="https://img.shields.io/badge/Contractions-FF0080?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/Joblib-000000?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/TorchVision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/MediaPipe-00C0FF?style=for-the-badge&logo=google&logoColor=white"> <img src="https://img.shields.io/badge/MobileNetV2-FF6F00?style=for-the-badge&logo=google&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 📂 **GitHub:** 👇  
+[![Repo](https://img.shields.io/badge/Repo-Driver%20Drowsiness%20Detection-success?style=plastic&logo=github)](https://github.com/sarank-21/Driver_drowsiness_detection_System)
 
-[![Repo](https://img.shields.io/badge/Repo-AI%20Echo:%20Sentiment%20Analysis-green?style=plastic&logo=github)](https://github.com/Infant-Joshva/Project_5-AI-Echo_Sentiment-Analysis.git)
+### 📱 **App User Behavior Segmentation: KMeans-Powered User Clustering & Analytics Dashboard**
+🎯 An end-to-end **Unsupervised ML + Analytics** platform that segments mobile app users into Casual and Power Users using KMeans clustering on 17 behavioral telemetry features, backed by a persistent MySQL database and served through a multi-view interactive Streamlit dashboard.  
+Also features **7 dedicated analysis views** — country-level sunburst charts, device-type breakdowns, subscription-tier analysis, churn KPI tracking, and scatter-based cluster validation — all powered by Plotly with custom CSS styling.
 
-<h1></h1>
+**🧰 Tech Stack**
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/KMeans-00C0FF?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"> <img src="https://img.shields.io/badge/Graph%20Objects-000000?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SQLAlchemy-4A7EBB?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/MySQL%20Connector-00758F?style=for-the-badge&logo=mysql&logoColor=white">
 
+📂 **GitHub:** 👇  
+[![Repo](https://img.shields.io/badge/Repo-App%20User%20Behavior%20Segmentation-success?style=plastic&logo=github)](https://github.com/sarank-21/App_User_Behavior_Segmentation)
 
----
+### 💼 **Job Acceptance Prediction System: RF-Powered Candidate Offer Acceptance Forecasting**
+🎯 An end-to-end **Machine Learning + HR Analytics** platform that predicts whether a candidate will accept a job offer using a Random Forest Classifier trained on academic performance, skills match, interview scores, and behavioral features, backed by a persistent MySQL database and served through an interactive Streamlit dashboard.  
+Also features **real-time probability-based prediction**, KPI metric tracking, and multi-view analytics covering placement trends, interview insights, and candidate performance — all powered by Plotly with custom CSS styling.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=infant-joshva&show_icons=true&locale=en&layout=compact" alt="infant-joshva" /></p>
+**🧰 Tech Stack**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=infant-joshva&show_icons=true&locale=en" alt="infant-joshva" /></p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Imbalanced--Learn-FF6F00?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"> <img src="https://img.shields.io/badge/Graph%20Objects-000000?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SQLAlchemy-4A7EBB?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/MySQL%20Connector-00758F?style=for-the-badge&logo=mysql&logoColor=white">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Infant-Joshva)
+📂 **GitHub:** 👇  
+[![Repo](https://img.shields.io/badge/Repo-Job%20Acceptance%20Prediction%20System-success?style=plastic&logo=github)](https://github.com/sarank-21/Job_Acceptance_Prediction_System)
 
-![Infant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Infant-Joshva&bg_color=000000&color=ffffff&line=4dff4d&point=ffffff&area=true&hide_border=true)
+### 🛵 **Online Food Delivery Analysis: Multi-Dimensional Business Intelligence & Operations Dashboard**
+🍔 A comprehensive **Data Analytics + Business Intelligence** platform that analyzes 10 years (2012–2022) of online food delivery data across customer behavior, revenue trends, delivery performance, and restaurant operations — backed by a persistent MySQL database and served through a 7-page interactive Streamlit dashboard.  
+Also features **engineered business metrics** — Profit Margin %, Peak Hour Indicators, Delivery Performance Categories, and Customer Age Groups — with sunburst charts, area plots, and real-time KPI summaries powered by Plotly.
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=infant-joshva&theme=gruvbox&margin-w=15" alt="infant-joshva" />
-  </a>
-</p>
+**🧰 Tech Stack**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"> <img src="https://img.shields.io/badge/Plotly%20Express-636EFA?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SQLAlchemy-4A7EBB?style=for-the-badge&logoColor=white">
+
+📂 **GitHub:** 👇  
+[![Repo](https://img.shields.io/badge/Repo-Online%20Food%20Delivery%20Analysis-success?style=plastic&logo=github)](https://github.com/sarank-21/Online-Food-Delivery-Analysis)
