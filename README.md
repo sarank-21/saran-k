@@ -1,49 +1,64 @@
 ![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 <h1 align="center">Hi 👋, I'm Saran K</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">✨ Engineer Turned Data Explorer | Aspiring Data Scientist 🚀 </h3>
 
-<img align="right" alt="Coding" width="350" src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=infant-joshva&label=Profile%20views&color=0e75b6&style=flat" alt="infant-joshva" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saran&label=Profile%20views&color=8B5CF6&style=flat" alt="saran" /> </p>
 
-## 🚀 About Me  
-Data Science professional with IIT-M Pravartak certification in Advanced Programming. Passionate about analytics, pattern analysis, building dashboards, and developing interactive applications.
+## 🔎 About Me
+NLP & Machine Learning Engineer with hands-on experience building end-to-end ML pipelines and deploying them via interactive Streamlit dashboards. Affiliated with **GUVI × HCL** capstone program (MDT58), passionate about Computer Vision, Deep Learning, and Natural Language Processing.
+
+- 🔭 I'm currently working on **AI News Intelligence System**
+- 🌱 I'm exploring **Transformer models, LLMs & Computer Vision**
+- 💬 Ask me about **NLP, Deep Learning, CNN, Streamlit, AWS**
+- 📫 Reach me at **sarankofficial21@gmail.com**
 
 <h1></h1>
 
-<h3 align="left">Contacts:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/infant-joshva" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="infant joshva" height="30" width="40" />
+<a href="https://www.linkedin.com/in/saran-k-142056365/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saran" height="30" width="40" />
 </a>
-<a href="mailto:infantjoshva2024@gmail.com" target="_blank">
-  <img align="center" width="40" height="40" src="https://img.icons8.com/color/48/gmail--v1.png" alt="gmail--v1"/>
+<a href="sarankofficial21@gmail.com" target="_blank">
+  <img align="center" width="40" height="40" src="https://img.icons8.com/color/48/gmail--v1.png" alt="gmail"/>
 </a>
 </p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
-<a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40"/> </a> 
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://images.prismic.io/plotly-marketing-website-2/8f977c91-7b4e-4367-8228-26fbba2506e4_69e12d6a-fb65-4b6e-8423-9465a29c6028_plotly-logo-sm.png?auto=compress%2Cformat&fit=max&w=128" alt="plotly" width="90" height="60"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="80"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-</p>
-
 
 ---
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> </a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://images.prismic.io/plotly-marketing-website-2/8f977c91-7b4e-4367-8228-26fbba2506e4_69e12d6a-fb65-4b6e-8423-9465a29c6028_plotly-logo-sm.png?auto=compress%2Cformat&fit=max&w=128" alt="plotly" width="80" height="40"/> </a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a>
+</p>
+
 ## 🚀 Projects
 
-> 📌 **Note:** Each project folder contains detailed instructions in its own README file. 
+> 📌 **Note:** Each project folder contains detailed instructions in its own README file.
+
+### ⚡ Final Project – **AI News Intelligence System: Multilabel Classification & Entity-Aware Summarization Engine**
+📰 A production-grade **NLP + Deep Learning** platform that classifies news articles across multiple topics simultaneously, extracts named entities, generates entity-grounded abstractive summaries, and scores misinformation risk through a five-signal composite engine.  
+Also features a fully styled **Streamlit Dashboard** with gradient prediction cards, sortable probability tables, and color-coded risk metrics deployed on **Amazon EC2**.
+
+**🧰 Tech Stack**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/RoBERTa-000000?style=for-the-badge&logo=huggingface&logoColor=white"> <img src="https://img.shields.io/badge/T5%2FBART-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white"> <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/SHAP-00C0FF?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/BERTScore-4A90D9?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/ROUGE-6DB33F?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+
+📂 **GitHub:** 👇  
+[![Repo](https://img.shields.io/badge/Repo-AI%20News%20Intelligence%20System-success?style=plastic&logo=github)](https://github.com/your-username/ai-news-intelligence.git)
 
 ### 1️⃣ Secure Check
 
@@ -117,18 +132,7 @@ Built with real-world datasets and optimized machine learning pipelines.
 
 <h1></h1>
 
-### ⚡ Final Project – **BrandVision AI: Real-Time Brand Exposure Analytics for Sports Broadcasts**
 
-📺 A full-scale **Computer Vision + Analytics** platform that detects brand logos from cricket broadcast frames, calculates exposure time, boundary visibility, frequency of appearances, and generates automated PDF reports.  
-Also features an integrated **AI Chat Bot** powered by Google Gemini for interactive insights.
-
-**🧰 Tech Stack**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/SQLAlchemy-4A7EBB?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=opencv&logoColor=black"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"> <img src="https://img.shields.io/badge/Graph%20Objects-000000?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Boto3-527FFF?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/ReportLab-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"> <img src="https://img.shields.io/badge/Tempfiles-808080?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white">
-
-📂 **GitHub:** 👇  
-
-[![Repo](https://img.shields.io/badge/Repo-AdVision360%20Analytics-success?style=plastic&logo=github)](https://github.com/Infant-Joshva/Final_Project-AdVision360.git)
 
 ---
 
