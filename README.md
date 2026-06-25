@@ -112,9 +112,9 @@ Also features **engineered business metrics** — Profit Margin %, Peak Hour Ind
 <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarank-21&layout=compact&theme=tokyonight&hide_border=true&card_width=900" />
 
 <!-- Stats + Streak -->
-<img width="46%" height="180" src="https://github-readme-stats.vercel.app/api?username=sarank-21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" />
+<img width="46%" height="175" src="https://github-readme-stats.vercel.app/api?username=sarank-21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" />
 
-<img width="47%"  height="175" src="https://github-readme-streak-stats.herokuapp.com?user=sarank-21&theme=tokyonight&hide_border=true" />
+<img width="47%"  height="170" src="https://github-readme-streak-stats.herokuapp.com?user=sarank-21&theme=tokyonight&hide_border=true" />
 
 <!-- Activity Graph -->
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarank-21&bg_color=1a1b27&color=c084fc&line=a855f7&point=e879f9&area=true&hide_border=true" />
