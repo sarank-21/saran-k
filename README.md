@@ -105,6 +105,16 @@ Also features **engineered business metrics** — Profit Margin %, Peak Hour Ind
 📂 **GitHub:** 👇  
 [![Repo](https://img.shields.io/badge/Repo-Online%20Food%20Delivery%20Analysis-success?style=plastic&logo=github)](https://github.com/sarank-21/Online-Food-Delivery-Analysis)
 
+### 🌍 **Global Seismic Trends: Data-Driven Earthquake Intelligence & Risk Analytics Platform**
+🌋 A real-time **Seismic Data Analytics + API Integration** platform that fetches historical and live earthquake data from the USGS API, stores it in a persistent MySQL database, and serves multi-dimensional seismic insights — magnitude & depth analysis, tsunami risk monitoring, temporal trend patterns, and data quality evaluation — through an interactive Streamlit dashboard.  
+Also features **automated data ingestion** with duplicate-safe MySQL writes, engineered depth classification (Shallow/Deep), year-over-year seismic growth rates, and alert severity tracking (Green/Yellow/Orange/Red) across user-selectable time ranges.
+
+**🧰 Tech Stack**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/USGS%20API-005288?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Requests-FF6F00?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SQLAlchemy-4A7EBB?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/PyMySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
+
+📂 **GitHub:** 👇  
+[![Repo](https://img.shields.io/badge/Repo-Global%20Seismic%20Trends-success?style=plastic&logo=github)](https://github.com/sarank-21/Global_Seismic_Trends)
 -------
 <div align="center">
 
